@@ -23,7 +23,8 @@ knitr::include_graphics("img/Speaking-the-world.jpg")
 
 _Write your comments about image 1 below_
 
-
+Unclear the scale for each bar, are we measuring area or length.
+China has different scale with an impossible value.
 
 
 
@@ -35,7 +36,7 @@ knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 
 _Write your comments about image 2 below_
 
-
+Unclear the values that are supposed to be represented. no scale
 
 
 ## Image 3
@@ -46,7 +47,7 @@ knitr::include_graphics("img/life-expectancy-rule-of-law.png")
 
 _Write your comments about image 3 below_
 
-
+Cramped, axis labelled but not given values, no clear colour coordination
 
 
 ## Image 4
@@ -57,6 +58,7 @@ knitr::include_graphics("img/global-income-dist.PNG")
 
 _Write your comments about image 4 below_
 
+x axis is logarithmic, to much information being presented at once.
 
 
 
