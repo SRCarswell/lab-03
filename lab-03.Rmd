@@ -1,6 +1,6 @@
 ---
 title: "Lab 03 - Take a sad plot and make it better"
-author: "Steven Carswell and Tay Nash - s.edi"
+author: "Steven Carswell + Tay Nash - s.edi"
 date: "`r Sys.Date()`"
 output: html_document
 ---
